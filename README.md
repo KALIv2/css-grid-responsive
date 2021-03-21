@@ -1,1 +1,1 @@
-# css-grid-responsive
+# sam pisi kod
