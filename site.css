@@ -59,7 +59,7 @@ button:hover {
 H E A D E R
 *****************************************/
 header {
-    background: url(../imgs/header.jpg);
+    background: url(header.jpg);
     background-size: cover;
     height: 120vh;
     background-position: center;
